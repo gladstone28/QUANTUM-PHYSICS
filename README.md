@@ -28,3 +28,5 @@ At the quantum level, outcomes are not deterministic, but probabilistic. This me
 **Energy in quantum physics is quantized, meaning that particles can only exist at specific energy levels, rather than a continuous range. For instance, an electron in an atom can only occupy certain energy levels, and when it moves between them, it absorbs or emits a specific amount of energy in the form of light.**
 
 In essence, quantum physics describes a world that’s vastly different from our everyday experiences, **where things can exist in multiple states, behave unpredictably, and interact in ways that defy classical understanding. It’s the foundation for modern technologies like lasers, semiconductors, and quantum computing.**
+
+&copy: Gladstone Rose
