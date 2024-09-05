@@ -1,4 +1,4 @@
-### Quantum Physics
+### An Introduction to Quantum Physics
 
 **Quantum physics is the branch of science that studies the behavior of matter and energy at very small scales, such as atoms and subatomic particles. It’s quite different from classical physics, which deals with everyday objects and phenomena, and often leads to counterintuitive results.**
 
