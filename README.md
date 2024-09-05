@@ -29,4 +29,5 @@ At the quantum level, outcomes are not deterministic, but probabilistic. This me
 
 In essence, quantum physics describes a world that’s vastly different from our everyday experiences, **where things can exist in multiple states, behave unpredictably, and interact in ways that defy classical understanding. It’s the foundation for modern technologies like lasers, semiconductors, and quantum computing.**
 
-&copy: Gladstone Rose
+
+© 2024 Gladstone Rose-QSL Limited. All rights reserved until given direct permission.
